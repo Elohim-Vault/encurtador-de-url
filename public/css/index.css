@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-body #formURL, .card-body #title {
+    display: flex;
+    justify-content: center;
+    padding: 10px 50px 10px 50px;
+}
+
+#back {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+form, .form-control{
+    width: 100vh;
+    height: 7vh;
+}
+
